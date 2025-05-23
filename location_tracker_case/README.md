@@ -1,6 +1,6 @@
 # Location Tracker iOS App
 
-iOS uygulaması ile kullanıcı konumunu takip eden ve harita üzerinde görselleştiren bir proje. MVVM mimarisi kullanılarak geliştirilmiştir.
+A project that tracks user location and visualizes it on the map with iOS application. It is developed using MVVM architecture.
 
 ## Features
 
